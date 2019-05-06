@@ -1,0 +1,5 @@
+C:\Users\Bilal Tasdemir\source\repos\emgucv19\emgucv19\obj\Debug\emgucv19.csprojAssemblyReference.cache
+C:\Users\Bilal Tasdemir\source\repos\emgucv19\emgucv19\obj\Debug\emgucv19.Form1.resources
+C:\Users\Bilal Tasdemir\source\repos\emgucv19\emgucv19\obj\Debug\emgucv19.Properties.Resources.resources
+C:\Users\Bilal Tasdemir\source\repos\emgucv19\emgucv19\obj\Debug\emgucv19.csproj.GenerateResource.cache
+C:\Users\Bilal Tasdemir\source\repos\emgucv19\emgucv19\obj\Debug\emgucv19.csproj.CoreCompileInputs.cache
